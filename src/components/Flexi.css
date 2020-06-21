@@ -1,0 +1,21 @@
+.text-field {
+    margin-top: 2.5rem;
+}
+.text-field input {
+    width: 20%;
+    height: 25px;
+}
+.drop-down {
+    margin-top: 1rem;
+}
+.drop-down select {
+    width: 20.5%;
+    margin-left: .6rem;
+    height: 25px;
+}
+.smt-btn {
+    width: 10%;
+    height: 25px;
+    margin-top: 1rem;
+    font-weight: bold;
+}
